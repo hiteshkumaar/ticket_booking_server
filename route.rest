@@ -1,0 +1,1 @@
+GET http://localhost:3001/movies/64f5f122f9bb2b4b7fc27dd0
